@@ -144,6 +144,13 @@ hr {
 .nav__logo {
   margin-right: 4px;
 }
+ .nav-logo{
+    width: 30px;
+    height: 36px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
 .nav__hamburger {
   height: 30px;
   width: 30px;
