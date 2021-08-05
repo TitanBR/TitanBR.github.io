@@ -145,11 +145,11 @@ hr {
   margin-right: 4px;
 }
  .nav-logo{
-    width: 30px;
-    height: 36px;
+    width: 35px;
+    height: 42px;
     border-radius: 50%;
     overflow: hidden;
-    margin-top: -6px;
+    margin-top: -1px;
 }
 .nav__hamburger {
   height: 30px;
