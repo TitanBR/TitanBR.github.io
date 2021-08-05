@@ -144,14 +144,6 @@ hr {
 .nav__logo {
   margin-right: 4px;
 }
-.navbar-brand {
-  width:150px;
-  font-size: 24px;
-}
-.navbar-brand img {
-  height: 36px;
-  width: 30px;
-}
 .nav__hamburger {
   height: 30px;
   width: 30px;
